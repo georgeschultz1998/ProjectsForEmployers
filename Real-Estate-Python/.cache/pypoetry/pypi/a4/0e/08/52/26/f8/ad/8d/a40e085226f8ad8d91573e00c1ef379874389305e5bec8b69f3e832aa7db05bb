@@ -1,0 +1,1 @@
+9999999999{"name": "PyQt5-Qt5", "version": "5.15.2", "summary": "The subset of a Qt installation needed by PyQt5.", "platform": "Linux", "requires_dist": null, "requires_python": null, "files": [], "_cache_version": "1.0.0"}

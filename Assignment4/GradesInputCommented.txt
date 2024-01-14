@@ -1,0 +1,7 @@
+# Below is default data added for demo purposes, date can be tweaked in the csv file instead of using menu.
+
+StudentNumber,FirstName,LastName,ProgrammingAssignmentGrade,TestGrade,FinalExamGrade
+101,Emily,Taylor,80,85,100
+102,Jacob,Johnson,85,85,85
+103,Mia,Williams,90,80,70
+103,Tony,Schultz,90,100,95
