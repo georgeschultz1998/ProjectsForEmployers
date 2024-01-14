@@ -1,0 +1,88 @@
+[
+    {
+        "date": "2023-12-13",
+        "title": "Exploring React Native Components",
+        "content": "Initiated Chievemore's development by exploring various React Native components. Decided on using core components like View and Text for basic layout structure. -Anthony Schultz"
+    },
+    {
+        "date": "2023-12-14",
+        "title": "UI Design with React Native",
+        "content": "Dove deeper into UI design using React Native. Studied the use of StyleSheet for styling, and began implementing TouchableOpacity for interactive elements. -Anthony Schultz"
+    },
+    {
+        "date": "2023-12-15",
+        "title": "Building AlarmListScreen with AsyncStorage",
+        "content": "Developed the AlarmListScreen, utilizing FlatList for rendering the alarm list. Integrated AsyncStorage for storing alarm data persistently. -Anthony Schultz"
+    },
+    {
+        "date": "2023-12-18",
+        "title": "Alarm Interaction with Audio",
+        "content": "Focused on alarm interactions in AlarmTriggerScreen. Explored the expo-av library for sound playback, enhancing the user's alarm experience. -Anthony Schultz"
+    },
+    {
+        "date": "2023-12-19",
+        "title": "Video Recording Integration",
+        "content": "Implemented video recording in GoalVideoRecorder using expo-camera. Experimented with Camera component properties for optimal video capture. -Anthony Schultz"
+    },
+    {
+        "date": "2023-12-20",
+        "title": "Creating a Custom Time Picker",
+        "content": "Developed a CustomTimePicker component. Studied ScrollView and its properties to create a seamless time selection experience. -Anthony Schultz"
+    },
+    {
+        "date": "2023-12-21",
+        "title": "Code Refinement and Performance",
+        "content": "Refined the app's code for performance enhancement. Focused on optimizing the use of state and props in React Native components. -Anthony Schultz"
+    },
+    {
+        "date": "2023-12-22",
+        "title": "Enhancing Alarm UI with Animations",
+        "content": "Improved AlarmListScreen's UI by adding animations using the Animated component. Enhanced user feedback on alarm interactions. -Anthony Schultz"
+    },
+    {
+        "date": "2023-12-26",
+        "title": "Advanced Features in Video Recording",
+        "content": "Added advanced functionalities to GoalVideoRecorder. Studied and implemented camera switching and resolution adjustments. -Anthony Schultz"
+    },
+    {
+        "date": "2023-12-27",
+        "title": "Alarm Notification Reliability Testing",
+        "content": "Tested alarm notifications for reliability. Focused on the Notifications component from expo-notifications for consistent behavior across devices. -Anthony Schultz"
+    },
+    {
+        "date": "2023-12-28",
+        "title": "Enhancing Time Picker Interactivity",
+        "content": "Worked on enhancing CustomTimePicker. Studied the interaction of ScrollView with state management for a more responsive user experience. -Anthony Schultz"
+    },
+    {
+        "date": "2023-12-29",
+        "title": "Setting Up for User Feedback",
+        "content": "Started setting up mechanisms for collecting user feedback. Focused on integrating Modal and Alert components for user interaction testing. -Anthony Schultz"
+    },
+  {
+      "date": "2024-01-01",
+      "title": "Implementing User Settings Page",
+      "content": "Began development of a user settings page. Focusing on creating customizable options for users, including theme selection and notification preferences. Exploring React Native's Picker and Switch components for user preferences. -Anthony Schultz"
+  },
+  {
+      "date": "2024-01-02",
+      "title": "Optimizing AlarmListScreen for Better Performance",
+      "content": "Prioritizing performance improvements in the AlarmListScreen. Implementing more efficient state management and rendering techniques. Considering the use of React.memo and useCallback to reduce unnecessary re-renders. -Anthony Schultz"
+  },
+  {
+      "date": "2024-01-03",
+      "title": "Advancements in Video Recording Capabilities",
+      "content": "Enhancing the GoalVideoRecorder with additional features such as video quality settings and time-lapse recording. Investigating the integration of more advanced camera controls for a professional recording experience. -Anthony Schultz"
+  },
+  {
+      "date": "2024-01-04",
+      "title": "Creating Reminder Pages",
+      "content": "Focused on developing reminder pages to enhance user engagement. Integrated calendar view for better tracking of upcoming events and tasks. Utilizing FlatList for efficient display and management of reminders. -Anthony Schultz"
+  },
+  {
+      "date": "2024-01-05",
+      "title": "CustomTimePicker - Next Level Customization and Accessibility",
+      "content": "Planning to add more customization options to the CustomTimePicker, like different themes and layouts. Improving accessibility with voice-over support and larger touch targets for better usability. Researching user feedback to understand preferences and areas for improvement in the time picker experience. -Anthony Schultz"
+  }
+
+]
