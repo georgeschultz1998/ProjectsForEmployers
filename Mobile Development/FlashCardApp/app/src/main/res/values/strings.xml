@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Flashcard App</string>
+    <string name="new_flash_card_title">New Flashcard</string>
+    <string name="question_hint">Enter question here</string>
+    <string name="answer_hint">Enter answer here</string>
+    <string name="save_flash_card_button">Save Flashcard</string>
+    <string name="flash_card_empty_error">Please enter both a question and an answer.</string>
+    <string name="flash_card_saved">Flash Card Saved</string>
+    <array name="flash_card_array_names">
+        <item>Questions</item>
+        <item>Answers</item>
+    </array>
+    <string name="flash_card_array_prompt">Choose an array to modify</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">flashcardapp</string>
+    <string name="new_flash_card_title">New Flash Card</string>
+    <string name="question_hint">Question</string>
+    <string name="answer_hint">Answer</string>
+    <string name="preview_button">Preview</string>
+    <string name="save_flash_card_button">Save Card</string>
+    <string name="question_placeholder">Question preview</string>
+    <string name="answer_placeholder">Answer preview</string>
+    <string name="question_title">Question</string>
+    <string name="answer_title">Answer</string>
+</resources>

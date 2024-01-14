@@ -1,0 +1,72 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/viewFlashCardLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/flipInstructionLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Click the card to flip it"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="10dp"/>
+
+    <TextView
+        android:id="@+id/questionAnswerTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="200dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/grey"
+        android:textSize="18sp"
+        android:focusableInTouchMode="false"
+        android:hint="@string/question_hint"
+        android:background="@drawable/rounded_rectangle_border"
+        android:gravity="center"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:layout_below="@id/flipInstructionLabel" />
+
+
+    <RelativeLayout
+        android:id="@+id/navButtonsLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/questionAnswerTextView"
+        android:layout_marginTop="16dp">
+
+        <Button
+            android:id="@+id/prevButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Prev"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginEnd="16dp"/>
+
+        <TextView
+            android:id="@+id/cardNumberTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_centerHorizontal="true"
+            android:paddingTop="10dp"/>
+
+        <Button
+            android:id="@+id/nextButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Next"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginStart="16dp"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>
